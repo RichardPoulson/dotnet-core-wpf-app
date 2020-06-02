@@ -1,0 +1,2 @@
+language: csharp
+solution: dotnet-core-wpf-app.sln
